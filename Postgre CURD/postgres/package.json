@@ -1,0 +1,16 @@
+{
+  "name": "postgres",
+  "version": "1.0.1",
+  "description": "Database-Postgre",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahim sarker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pg": "^8.11.0"
+  }
+}
